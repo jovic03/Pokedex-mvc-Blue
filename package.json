@@ -1,19 +1,29 @@
 {
   "name": "pokedex-mvc-blue",
   "version": "1.0.0",
-  "description": "Projeto MVC de uma pokedex",
+  "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jovic03/Pokedex-mvc-Blue.git"
   },
-  "author": "Jovic",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jovic03/Pokedex-mvc-Blue/issues"
   },
-  "homepage": "https://github.com/jovic03/Pokedex-mvc-Blue#readme"
+  "homepage": "https://github.com/jovic03/Pokedex-mvc-Blue#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
