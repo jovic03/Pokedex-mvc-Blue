@@ -21,5 +21,5 @@ Node.js<i class="fa-brands fa-node-js"></i></br>
 Nodemon
 
 ## Personal
-João Victor Gomes da Silva
+João Victor Gomes da Silva</br>
 <a>Linkedin https://www.linkedin.com/in/jo%C3%A3o-victor-gomes-da-silva-79722a229/</a>
